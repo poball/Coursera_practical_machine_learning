@@ -38,7 +38,7 @@ The goal of project is to predict the manner in which they did the exercise. Thi
 
 ## Data Preprocessing  
 
-```{r,echo=FALSE}
+```{r,echo=FALSE,eval=FALSE}
 #getwd()
 #setwd("C:/Users/lqiu/Coursera/Coursera_practical_machine_learning/")
 ```
